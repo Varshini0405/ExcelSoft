@@ -12,7 +12,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 # Load YOLO model
-model = YOLO("yolov8x.pt")
+model = YOLO("yolov8n.pt")
 
 # Define ByteTrack arguments
 class TrackerArgs:
