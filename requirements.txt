@@ -17,8 +17,8 @@ h5py
 onnx==1.15.0
 onnxruntime>=1.21.0
 onnx-simplifier==0.3.5
-streamlit
-ultralytics
+streamlit 
+ultralytics 
 transformers
 accelerate
 cmake
