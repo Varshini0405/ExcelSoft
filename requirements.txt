@@ -1,5 +1,5 @@
 numpy
-opencv_python
+opencv-python-headless
 loguru
 scikit-image
 tqdm
@@ -19,7 +19,7 @@ onnx-simplifier==0.3.5
 streamlit 
 ultralytics 
 yolox 
-torch 
+torch==2.1.0
 transformers
 bitsandbytes 
 accelerate
