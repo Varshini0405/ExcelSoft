@@ -1,4 +1,5 @@
 numpy
+torch==2.1.0
 opencv-python-headless
 loguru
 scikit-image
@@ -19,8 +20,8 @@ onnx-simplifier==0.3.5
 streamlit 
 ultralytics 
 yolox 
-torch==2.1.0
 transformers
 bitsandbytes 
 accelerate
 cython_bbox
+cmake
